@@ -3,6 +3,8 @@ import time
 import os
 from BeemAfrica import Authorize, OTP, SMS, AirTime
 
+os.system("clear")
+time.sleep(3)
 ########################################################################################
 print("""\033[1;32;40m
     
